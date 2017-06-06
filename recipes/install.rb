@@ -1,3 +1,4 @@
+setup_aws()
 
 group node.drelephant.group do
   action :create
